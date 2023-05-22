@@ -11,7 +11,7 @@ end
 gem 'rails', '~> 5.1.4'
 
 #bootstrap template
-gem 'bootstrap', '~> 4.0.0'
+gem 'bootstrap', '~> 4.3.1'
 gem 'sprockets-rails', '~> 3.2', '>= 3.2.1'
 
 #Bootstrap JavaScript depends on jQuery
